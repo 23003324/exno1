@@ -129,6 +129,6 @@ STEP 6: Use zscore of to remove outliers
 
 # Result
 
-Thus the given data is successfully performed data cleaning and save the cleaning data to a file.
+Thus the given data  successfully performed data cleaning and save the cleaning data to a file.
 
 
