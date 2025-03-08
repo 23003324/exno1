@@ -128,4 +128,7 @@ STEP 6: Use zscore of to remove outliers
 
 
 # Result
-          <<include your Result here>>
+
+Thus the given data is successfully performed data cleaning and save the cleaning data to a file.
+
+
